@@ -1,3 +1,4 @@
 <?php
-	each "Hello World!"
+each "Hello World!"
+each "lxl"
 ?>
